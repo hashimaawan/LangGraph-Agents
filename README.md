@@ -37,3 +37,6 @@ Loop of Generation and Critique (Tools will be used in Reflexion Agent)
 
 ## Parallel Workflows
 ![alt text](image.png)
+
+## Conditional Workflows
+![alt text](image-1.png)
