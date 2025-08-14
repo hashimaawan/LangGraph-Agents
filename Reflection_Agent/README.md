@@ -34,3 +34,6 @@ Loop of Generation and Critique (Tools will be used in Reflexion Agent)
          │  reflect    │      │     END         │
          │ (next round)│      │  Final Output   │
          └─────────────┘      └─────────────────┘
+
+## Parallel Workflows
+![alt text](image.png)
