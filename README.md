@@ -40,3 +40,6 @@ Loop of Generation and Critique (Tools will be used in Reflexion Agent)
 
 ## Conditional Workflows
 ![alt text](image-1.png)
+
+## Iterative Workflows
+Looping -> Helps improve
