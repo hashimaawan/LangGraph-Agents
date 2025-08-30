@@ -47,4 +47,4 @@ Looping -> Helps improve
 ![alt text](image-2.png)
 
 ## LangGraph Chatbot
-Chatbot with proper persistence. Resume chat where left, can also see old chats.
+Chatbot with proper persistence. Resume chat where left, can also see old chats. As streaming and sqlite database is impelmented.
