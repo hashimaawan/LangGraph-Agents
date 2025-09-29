@@ -34,6 +34,8 @@ def get_weather(city: str) -> dict:
     data = r.json()
     return {"city": city, "temp": data["current_condition"][0]["temp_C"]}
 
+
+
 tools = [calculator, get_weather]
 
 # -------------------
